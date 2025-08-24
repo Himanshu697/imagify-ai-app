@@ -1,8 +1,8 @@
-# Welcome to your Lovable project
+
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/e5cc972d-950e-40d9-a277-5fdb7e3e67a8
+**URL**:https://imagify-ai-app.vercel.app/
 
 
 
@@ -52,7 +52,7 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
+## How can I deploy this project?  
 
 
 
