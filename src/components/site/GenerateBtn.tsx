@@ -31,7 +31,7 @@ export const GenerateBtn: React.FC = () => {
 
     try {
       // This is the corrected URL for your Supabase Edge Function.
-      const response = await fetch("https://ovatsnoguqszydaemvd.supabase.co/functions/v1/generate-image", {
+      const response = await fetch("https://ovatsngvpqaeyzdmzmvd.supabase.co/functions/v1/generate-image", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
